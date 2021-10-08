@@ -1,4 +1,4 @@
-package dayTwoAssignment;
+package Day2;
 
 /*
  Assignment 2:(method + constructors)
@@ -14,7 +14,7 @@ public class Assign2AreaCalculation {
 	float sqarea;
 	double cirarea;
 
-	public static void main(String[] args) {
+	public static void main(StringsAssign[] args) {
 		new Assign2AreaCalculation();
 		Assign2AreaCalculation Square = new Assign2AreaCalculation(4f);
 		Assign2AreaCalculation Rectangle = new Assign2AreaCalculation(4.5f, 7.6f);

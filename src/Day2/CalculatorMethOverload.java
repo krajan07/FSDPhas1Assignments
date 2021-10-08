@@ -1,4 +1,4 @@
-package dayTwoAssignment;
+package Day2;
 
 /* assignment 1: (function overloading)
 Note **: create function name as "calculate"
@@ -10,10 +10,11 @@ create three functions in a class
 3) one of return type int
    area of the rectangle*/
 
-public class Assign1CalculatorMethodOverloading {
+public class CalculatorMethOverload {
 
-	public static void main(String[] args) {
-		Assign1CalculatorMethodOverloading CMO = new Assign1CalculatorMethodOverloading();
+	// Main Method
+	public static void main(StringsAssign[] args) {
+		CalculatorMethOverload CMO = new CalculatorMethOverload();
 
 		float CircleArea = CMO.calculate(6.78);
 		int RectangleArea = CMO.calculate(9, 1.65);
@@ -25,16 +26,19 @@ public class Assign1CalculatorMethodOverloading {
 
 	}
 
+	//Method to calculate Sum of 2 integers
 	public int calculate(int arg1, int arg2) {
 		int sum = arg1 + arg2;
 		return (sum);
 	}
 
+	//Method to calculate area of circle
 	public float calculate(double d) {
 		float circleArea = (float) (3.14 * d * d);
 		return (circleArea);
 	}
 
+	//Method to calculate area of rectangle
 	public int calculate(int length, double width) {
 		int rectangleArea = (int) (length * width);
 		return (rectangleArea);

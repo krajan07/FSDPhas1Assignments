@@ -1,4 +1,4 @@
-package AccessModifiersChild;
+package AccessModChild;
 
 public class TClassX {
 

@@ -1,4 +1,4 @@
-package AccessModifiers;
+package AccessMod;
 
 public class TClassP {
 
