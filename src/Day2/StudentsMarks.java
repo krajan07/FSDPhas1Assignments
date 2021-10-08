@@ -7,12 +7,12 @@ Calcuate the total marks and percentage obtained by every student (total= subjec
 
 public class StudentsMarks {
 
-	StringsAssign name;
+	String name;
 	int age;
 	char section, gender;
 	float sub1, sub2, sub3;
 
-	StudentsMarks(StringsAssign name, int age, char section, char gender, float sub1, float sub2, float sub3) {
+	StudentsMarks(String name, int age, char section, char gender, float sub1, float sub2, float sub3) {
 		this.name = name;
 		this.age = age;
 		this.section = section;
@@ -23,7 +23,7 @@ public class StudentsMarks {
 		System.out.println("Total marks scored is " + total_marks + "\nPercentage scored is " + percentage + "\n\n");
 	}
 
-	StudentsMarks(StringsAssign name, int age, char section, char gender, float sub2, float sub3) {
+	StudentsMarks(String name, int age, char section, char gender, float sub2, float sub3) {
 		this.name = name;
 		this.age = age;
 		this.section = section;
