@@ -6,7 +6,7 @@
 4) Demonstrate polymorphism using using monkey  class from Q3 
 */
 
-package oops_Oct3;
+package hw_OOPS_Oct3;
 
 abstract class Pen {
 	abstract void write();

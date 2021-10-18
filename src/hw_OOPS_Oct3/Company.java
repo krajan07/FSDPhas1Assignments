@@ -5,7 +5,7 @@ Hello (child of Infosys) ----> here implement all the abstarct methods + 1 creat
 main class ---> call all the methods of all classes using the dynamic polymorphism
 *///System.out.println();
  
-package oops_Oct3;
+package hw_OOPS_Oct3;
 
 abstract class MNC {
 	

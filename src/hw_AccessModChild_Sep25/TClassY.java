@@ -1,6 +1,6 @@
-package AccessModChild;
+package hw_AccessModChild_Sep25;
 
-import AccessMod.TClassN;
+import hw_AccessMod_Sep25.TClassN;
 
 public class TClassY extends TClassN {
 	

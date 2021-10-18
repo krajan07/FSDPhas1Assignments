@@ -5,7 +5,7 @@
   - call all the methods of the fuel of Vechile class
 */
 
-package oops_Oct3_Vehicles;
+package hw_Vehicles_OOPS_Oct3;
 
 public class VehiclesMain {
 

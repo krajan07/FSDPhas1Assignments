@@ -7,7 +7,7 @@
 - create methods here also as display() --> this will print the three variables of 2W  + all the variable of the parent Vechile  (hint: super.variable_name)
 */
 
-package oops_Oct3_Vehicles;
+package hw_Vehicles_OOPS_Oct3;
 
 public class twoWheeler extends VehicleP{
 

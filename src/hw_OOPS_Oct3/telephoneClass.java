@@ -2,7 +2,7 @@
 Create a class telephone with ( ) , lift ( ) and disconnected ( ) methods as abstract methods 
 create another class smart telephone and demonstrate polymorphism 
 */
-package oops_Oct3;
+package hw_OOPS_Oct3;
 
 abstract class telephone{
 	abstract void ring();

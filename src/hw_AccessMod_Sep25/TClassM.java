@@ -4,7 +4,7 @@ We have to calculate the percentage of marks obtained in three subjects (each ou
 the marks in four subjects as its parameters for student B. Create an object for each of the two classes and 
 print the percentage of marks for both the students.
 */
-package AccessMod;
+package hw_AccessMod_Sep25;
 
 public class TClassM {
 

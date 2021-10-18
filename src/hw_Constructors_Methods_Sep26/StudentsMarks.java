@@ -1,4 +1,4 @@
-package constructors_methods_Sep26;
+package hw_Constructors_Methods_Sep26;
 /*
 Assignment 3: create the 4 student objects with name s1,s2,s3,s4
 - declare the class member variables with String name, int age, section(char type), gender (char type), and three int subject marks (subject1, subject 2, subject 3).
