@@ -6,7 +6,7 @@
 - create methods here also as display() --> this will print the three variables of 3W  + all the variable of the parent Vechile
 */
 
-package Vehicles;
+package oops_Oct3_Vehicles;
 
 public class threeWheeler extends VehicleP{
 

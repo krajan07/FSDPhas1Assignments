@@ -3,7 +3,7 @@ Create an interface TVremote and use it to inherit another interface smart TVrem
 Create a class TV which implements TVremote interface from Q6
 */
 
-package Oct3;
+package oops_Oct3;
 
 interface smartTVRemote {
 	abstract void selectChannel();

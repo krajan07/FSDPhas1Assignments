@@ -1,4 +1,4 @@
-package Day2;
+package constructors_methods_Sep26;
 
 /* assignment 1: (function overloading)
 Note **: create function name as "calculate"

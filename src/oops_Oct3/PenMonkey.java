@@ -6,7 +6,7 @@
 4) Demonstrate polymorphism using using monkey  class from Q3 
 */
 
-package Oct3;
+package oops_Oct3;
 
 abstract class Pen {
 	abstract void write();
@@ -66,7 +66,7 @@ class FountainPen extends Pen {
  }
 
 
-public class PenConcrete {
+public class PenMonkey {
 
 	public static void main(String[] args) {
 		System.out.println("\nFOUNTAIN PEN");

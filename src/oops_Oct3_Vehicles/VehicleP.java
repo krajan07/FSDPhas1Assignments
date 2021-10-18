@@ -6,7 +6,7 @@
 - declare two variables - int speed and long distance
 - create two constructors also- default and parametrized
  * */
-package Vehicles;
+package oops_Oct3_Vehicles;
 
 abstract class VehicleP {
 	abstract void run();

@@ -1,4 +1,4 @@
-package Day2;
+package constructors_methods_Sep26;
 
 /*
  Assignment 2:(method + constructors)
